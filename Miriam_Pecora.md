@@ -1,0 +1,55 @@
+# Flow-chart della mia mattina, da quando mi sveglio fino all'inizio della lezione.
+
+**Inizio della giornata**
+
+- La sveglia suona alle 6:00.
+  - Mi sveglio: SÌ o NO:
+    - No.
+      - Posticipo la sveglia di 10 minuti.
+- La sveglia suona per la seconda volta alle 6:10.
+  - Mi sveglio: SÌ o NO:
+    - Sì.
+- Spengo la sveglia.
+- Mi alzo: SÌ o NO:
+  - No, mi riaddormento. (BAD ENDING)
+  - Sì.
+- Mi dirigo in bagno.
+- Aspetto che l'acqua diventi calda.
+- Mi lavo.
+- Mi dirigo in cucina.
+- Bevo un bicchiere d'acqua.
+- Decido di preparare un caffé.
+  - Sono rimaste delle cialde?
+    - No, lo prenderò fuori casa.
+    - Sì, lo preparo e lo bevo.
+- Vado a vestirmi.
+  - Ho già deciso cosa indossare la sera prima: SÌ o NO:
+    - No, quindi decido cosa indossare la mattina stessa.
+    - Sì, indosso i vestiti che ho preparato.
+- Scendo insieme a mio fratello.
+- Entriamo in macchina.
+- Collego le auricolari.
+- Scelgo una canzone da ascoltare.
+  - Parte la pubblicità su Spotify? SÌ o NO:
+    - Sì.
+      - Aspetto che la pubblicità finisca.
+        - La pubblicità è finita e posso ascoltare la canzone.
+    - No, non c'è pubblicità e ascolto la canzone.
+- Proseguiamo con il percorso verso l'istituto.
+  - C'è traffico? SÌ o NO:
+    - Sì, mi concedo altre canzoni in attesa di arrivare e avverto in caso di un possibile ritardo.
+    - No, la strada è libera e procediamo verso la destinazione.
+- Arrivo a destinazione.
+- Esco dalla macchina.
+- Mi guardo intorno per vedere se c'è qualche viso familiare intorno: SÌ o NO:
+  - Sì, li saluto e iniziamo a conversare riguardo il corso.
+  - No, continuo ad ascoltare musica ed aspettare.
+- Si fanno le 8:00.
+- Entro in istituto.
+- Salgo le scale.
+- Entro in aula.
+- Scelgo il posto.
+- Apro lo zaino.
+- Estraggo il laptop.
+- Sistemo il laptop sul banco e lo metto a caricare.
+- Aspetto l'inizio della lezione.
